@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanbook-wangdage&theme=algolia&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fanbook-wangdage&layout=compact&theme=algolia&count_private=true&hide=dart)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fanbook-wangdage&layout=compact&theme=algolia&count_private=true&hide=dart,CMake,HTML,Jupyter%20Notebook,c%2B%2B,Swift)  
 
 ---  
 
