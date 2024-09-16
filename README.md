@@ -4,3 +4,4 @@
 [fanbook服务器](https://in.fanbook.cn/LmgLJF3N)  
 我正在频繁维护的库：  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanbook-wangdage&repo=fanbook-bot-Framework&theme=algolia)](https://github.com/fanbook-wangdage/fanbook-bot-Framework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanbook-wangdage&repo=fanbookbotapi&theme=algolia)](https://github.com/fanbook-wangdage/fanbookbotapi)
