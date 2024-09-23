@@ -5,6 +5,8 @@
 
 做一些Fanbook里面的机器人  
 [fanbook服务器](https://in.fanbook.cn/LmgLJF3N)  
+[主要服务可用情况](https://stats.uptimerobot.com/VzApKu2pz1)
+[机器人可用情况](https://wdg.betteruptime.com/)
 
 ---  
 
